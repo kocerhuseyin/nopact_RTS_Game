@@ -180,6 +180,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9fd6a60485fdbb8438ccae28e076365a, type: 3}
+--- !u!1001 &596436625
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 986779250779795826, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_Name
+      value: Striker Bike (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
 --- !u!1001 &806394936
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -237,6 +294,120 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2bde98413881d5f429c4dcd52491cb23, type: 3}
+--- !u!1001 &841891047
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 986779250779795826, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_Name
+      value: Striker Bike (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+--- !u!1001 &880859662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 986779250779795826, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_Name
+      value: Striker Bike (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
 --- !u!1001 &1008773975
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -294,6 +465,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8ec785fead541f4f80553ba19f27261, type: 3}
+--- !u!1001 &1023850886
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 986779250779795826, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_Name
+      value: Striker Bike (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160983607649739240, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c322a3ce22021540abe9c5dcda7ae3f, type: 3}
 --- !u!1001 &1133120102
 PrefabInstance:
   m_ObjectHideFlags: 0
