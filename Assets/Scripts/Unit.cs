@@ -20,6 +20,12 @@ public abstract class Unit : GameEntity, IAttack, ISelectable
 
     protected virtual void Update()
     {
+        if (transform == null)
+        {
+            Debug.LogError("Transform is null on " + gameObject.name);
+            return;
+        }
+
         fireCooldown -= Time.deltaTime;
 
         if (target)
@@ -31,7 +37,7 @@ public abstract class Unit : GameEntity, IAttack, ISelectable
                 target = null;
             }
             // Check if the target is in range
-            if (Vector3.Distance(transform.position, target.Position) <= AttackRange)
+            else if (Vector3.Distance(transform.position, target.Position) <= AttackRange)
             {
                 isMoving = false;
                 AttackTarget();
@@ -128,7 +134,7 @@ public abstract class Unit : GameEntity, IAttack, ISelectable
             // Deal damage to the target
             target.TakeDamage(DamagePerShot);
         }
-        else if (target.IsDead)
+        else if (target != null && target.IsDead)
         {
             // Deselect the target (stop attacking)
             target = null;
@@ -137,7 +143,7 @@ public abstract class Unit : GameEntity, IAttack, ISelectable
     }
 
     public void Select()
-    {
+    {    
         IsSelected = true;
         GetComponent<Renderer>().material = SelectedMaterial;
     }
