@@ -5,6 +5,6 @@ using UnityEngine;
 public class EnemyBuilding : Building
 {
     [SerializeField]
-    protected int hitPoints = 500;
+    protected int hitPoints = 400;
     public override int HitPoints { get { return hitPoints; } set { hitPoints = value; } }
 }
